@@ -6,7 +6,7 @@ Me chamo Vinicius Oliveira, tenho 26 anos e sou natural de São Paulo - SP. Conc
 
 
    
-    <a href="h[https://github.com/vinnyii13/Portfolio]">
+    <a  href="https://github.com/vinnyii13?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
