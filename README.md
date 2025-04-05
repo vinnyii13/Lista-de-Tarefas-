@@ -21,7 +21,7 @@ Esse projeto foi criado como parte do meu portfólio em Análise e Desenvolvimen
 
 ## 📸 Preview
 
-![screenshot](![alt text](image.png))
+(![alt text](image.png)
 
 ## 🧪 Como usar
 
