@@ -1,4 +1,4 @@
-# 📝 To-Do List - Lista de Tarefas
+# 📝Lista de Tarefas
 
 Projeto simples de Lista de Tarefas (To-Do List) criado com **HTML, CSS e JavaScript**.
 
