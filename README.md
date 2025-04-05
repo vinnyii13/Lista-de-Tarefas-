@@ -5,7 +5,7 @@
 Me chamo Vinicius Oliveira, tenho 26 anos e sou natural de São Paulo - SP. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através meu Linkdin  Me chamo Vinicius Oliveira, tenho 26 anos e sou natural de São Paulo - SP. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através meu LinkedIn (https://www.linkedin.com/in/vinicius-santos-oliveira-778025141/))".
 
 
-   
+   <p align="left">
     <a  href="https://github.com/vinnyii13?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -17,7 +17,7 @@ Me chamo Vinicius Oliveira, tenho 26 anos e sou natural de São Paulo - SP. Conc
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/vinnyii13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
